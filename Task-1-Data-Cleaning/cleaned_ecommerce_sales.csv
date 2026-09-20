@@ -1,0 +1,20 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,region,revenue
+ORD001,Rahul Sharma,Laptop,Electronics,2.0,55000.0,2026-01-05,South,110000.0
+ORD002,Priya Reddy,Wireless Mouse,Electronics,5.0,1200.0,2026-01-06,South,6000.0
+ORD003,Arjun Kumar,Keyboard,Electronics,3.0,1800.0,2026-01-07,South,5400.0
+ORD004,Unknown,Monitor,Electronics,1.0,15000.0,2026-01-15,North,15000.0
+ORD005,Sneha Rao,Laptop,Electronics,1.0,55000.0,2026-01-09,South,55000.0
+ORD006,Vikram Singh,Office Chair,Furniture,2.0,8500.0,2026-01-10,West,17000.0
+ORD007,Ananya Reddy,Wireless Mouse,Electronics,2.0,1200.0,2026-01-15,South,2400.0
+ORD008,Kiran Patel,Headphones,Electronics,4.0,3500.0,2026-01-12,East,14000.0
+ORD009,Unknown,Keyboard,Uncategorized,2.0,1800.0,2026-01-15,South,3600.0
+ORD010,Meena Das,Laptop,Electronics,2.0,3500.0,2026-01-14,North,7000.0
+ORD011,Ravi Kumar,Office Chair,Furniture,1.0,8500.0,2026-01-15,West,8500.0
+ORD012,Priya Reddy,Wireless Mouse,Electronics,3.0,1200.0,2026-01-16,South,3600.0
+ORD013,Amit Shah,Monitor,Electronics,2.0,15000.0,2026-01-17,North,30000.0
+ORD014,Neha Verma,Headphones,Electronics,2.0,3500.0,2026-01-15,East,7000.0
+ORD015,Rohit Mehta,Laptop,Electronics,1.0,55000.0,2026-01-19,South,55000.0
+ORD017,Divya Nair,Keyboard,Electronics,4.0,1800.0,2026-01-21,South,7200.0
+ORD018,Suresh Babu,Monitor,Electronics,2.0,15000.0,2026-01-22,North,30000.0
+ORD019,Pooja Singh,Office Chair,Furniture,1.0,8500.0,2026-01-23,West,8500.0
+ORD020,Anil Kumar,Headphones,Electronics,3.0,3500.0,2026-01-24,South,10500.0
